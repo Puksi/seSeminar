@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
-    // TODO: 08.12.22 neues Kommentar 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
