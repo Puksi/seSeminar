@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
     private int i;
+    // TODO: 08.12.22 cooles feature 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
