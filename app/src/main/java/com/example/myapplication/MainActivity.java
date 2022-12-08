@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
+    // TODO: 08.12.22 cooles feature 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
